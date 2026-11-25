@@ -2,7 +2,10 @@
 
 <h1 align="center">KIRO 차세대모빌리티연구팀</h1>
 
-<p align="center"><strong>한국로봇융합연구원 · 차세대플랫폼연구단</strong></p>
+<p align="center">
+  <a href="https://www.kiro.re.kr/abt/ci.asp"><img src="./kiro-official-wordmark.png" width="104" alt="한국로봇융합연구원 공식 KIRO 워드마크"></a><br>
+  <strong>한국로봇융합연구원 · 차세대플랫폼연구단</strong>
+</p>
 
 <p align="center">로봇이 센서로 주변 공간을 이해하고 자연어 지시를 이동과 조작으로 이어갈 수 있도록,<br>피지컬 AI 기반 로봇 지능을 연구합니다.</p>
 
